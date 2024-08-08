@@ -12,5 +12,5 @@ assignees: ''
 - [ ] Have the meeting
 - [ ] Save recording and referenced emails in appropriate folder
 
-* *`rgb(255,0,50)Store MS Teams chat (before they disappear)
+* *Store MS Teams chat (before they disappear)
 - [ ] Save relevant chats in appropriate folder
