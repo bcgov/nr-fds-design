@@ -7,9 +7,6 @@ assignees: ''
 
 ---
 
-**Description**
-Who was the meeting with and what was the topic of discussion
-
 **Tasks**
 - [ ] Create Mural board
 - [ ] Have the meeting
