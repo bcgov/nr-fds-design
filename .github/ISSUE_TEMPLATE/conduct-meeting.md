@@ -12,5 +12,5 @@ assignees: ''
 - [ ] Have the meeting
 - [ ] Save recording and referenced emails in appropriate folder
 
-* *Store MS Teams chat (before they disappear)
+**_Store MS Teams chat (before they disappear)_**
 - [ ] Save relevant chats in appropriate folder
