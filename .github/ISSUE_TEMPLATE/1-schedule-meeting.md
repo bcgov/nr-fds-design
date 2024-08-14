@@ -1,7 +1,7 @@
 ---
-name: Schedule Meeting
+name: Schedule meeting
 about: Scheduling a meeting
-title: Schedule Meeting
+title: Schedule meeting
 labels: schedule meeting
 assignees: ''
 
