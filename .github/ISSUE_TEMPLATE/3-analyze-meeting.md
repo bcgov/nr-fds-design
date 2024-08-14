@@ -1,7 +1,7 @@
 ---
-name: Analyze Meeting
-about: 'Analyze Meeting '
-title: Analyze Meeting
+name: Analyze meeting
+about: 'Analyze meeting '
+title: Analyze meeting
 labels: ''
 assignees: ''
 
