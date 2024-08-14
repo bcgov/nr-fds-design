@@ -1,5 +1,5 @@
 ---
-name: Conduct Meeting
+name: Conduct meeting
 about: Conduct a meeting and save recording and notes
 title: Conduct meeting
 labels: ''
